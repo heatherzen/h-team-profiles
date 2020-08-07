@@ -1,0 +1,28 @@
+{
+  "name": "h-team-profiles",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/heatherzen/h-team-profiles.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/heatherzen/h-team-profiles/issues"
+  },
+  "homepage": "https://github.com/heatherzen/h-team-profiles#readme",
+  "dependencies": {
+    "file-system": "^2.2.2",
+    "fs": "0.0.1-security",
+    "inquirer": "^7.3.3",
+    "utils-extend": "^1.0.8"
+  },
+  "devDependencies": {
+    "jest": "^26.2.2"
+  }
+}
